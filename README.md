@@ -1,7 +1,7 @@
 
 ## Description 
 
-Let's Build a Multi-Purpose Laravel + Vue Application is out now. In this series, you learn everything you need to know about Building a complete web application with Laravel and Vue js. So, My goals is to inspire you to write better code and better applications. 
+Multi-Purpose Laravel + Vue Application is out now.a complete web application with Laravel and Vue js. So, My goals is to inspire you to write better code and better applications. 
 
 
 <b> Here are the things you will cover : </b>
