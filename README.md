@@ -1,7 +1,7 @@
 
 ## Description 
 
-Multi-Purpose Laravel + Vue Application is out now.a complete web application with Laravel and Vue js.
+Laravel + Vue Application.
 
 ## Installation
 
